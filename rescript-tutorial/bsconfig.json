@@ -1,0 +1,11 @@
+{
+  "name": "rescript-tutorial",
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    }
+  ],
+  "suffix": ".bs.js",
+  "bs-dependencies": []
+}
