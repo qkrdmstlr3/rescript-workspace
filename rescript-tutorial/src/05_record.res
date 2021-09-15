@@ -25,7 +25,7 @@ let baby: baby = {name: "Baby ReScript", age: 5}
 baby.age = baby.age + 1
 Js.log(baby.age)
 
-type person = {age: int, name: string}
+type person2 = {age: int, name: string}
 type monster = {age: int, hasTentacles: bool}
 
 // 여기서 entity가 monster일 것이라고 추론한다(가장 가까운 것).
