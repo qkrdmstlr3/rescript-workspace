@@ -29,3 +29,5 @@ let r = %re("/b/g")
 // 연산 시에 .을 붙인다 +. -. *. /.
 
 /* unit */
+// single value를 가진다
+// undefined로 컴파일된다
