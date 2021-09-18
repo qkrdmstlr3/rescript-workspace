@@ -1,0 +1,6 @@
+{
+  "name": "react",
+  "reason": { "react-jsx": 3 },
+  "bs-dependencies": ["@rescript/react"],
+  "sources": [{ "dir": "src", "subdirs": true }]
+}
